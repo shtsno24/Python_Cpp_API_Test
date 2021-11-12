@@ -8,7 +8,7 @@ len_vec = 8
 coef = 1.1
 vec_x = [i * coef for i in range(len_vec)]
 vec_a = [2 * coef for i in range(len_vec)]
-vec_b = [(i - 16) * coef for i in range(len_vec)]
+vec_b = [(i - 8) * coef for i in range(len_vec)]
 vec_y = [0 for i in range(len_vec)]
 
 # define data type and convert method
