@@ -1,0 +1,1 @@
+g++ MAC_VEC_WRAPPER.cpp -shared -o MAC_VEC.so
